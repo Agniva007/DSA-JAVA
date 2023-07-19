@@ -1,0 +1,37 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/
+Recursion/Recursion.iml
+Array/Array.iml
+Binary-Search/Binary-Search.iml
+Hashing/Hashing.iml
+LinkedList/LinkedList.iml
+SDE-SHEET/SDE-SHEET.iml
+String/String.iml
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
