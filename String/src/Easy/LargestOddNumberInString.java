@@ -2,7 +2,7 @@ package Easy;
 
 public class LargestOddNumberInString {
     public static void main(String[] args) {
-        System.out.println(largestOddNumber("345278"));
+        System.out.println(largestOddNumber("1345278"));
     }
 
     public static String largestOddNumber(String num) {
